@@ -1,3 +1,3 @@
 # Regression-ML-Projects-
-Regression Analysis Projects demonstrating Simple Linear , Multiple , Polynomial , Ridge and Lasso regression.  techniques using Python and Scikit-learn.
-
+Learning Machine learning through Regression , includes manual impllemention , 3D visaualizations , and hyperparameter tuning. 
+ 
