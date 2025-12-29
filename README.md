@@ -4,4 +4,4 @@
 ## Project Structure 
 
 ### 01. Simple Linear Regression 
-<a href = "https://github.com/RamanS26/Regression-ML-Projects-/blob/main/Ice_cream_sales_based_on_Temp.ipynb">Ice Cream Sales w.r.t Temperature</a>
+<a href = "https://github.com/RamanS26/Regression-ML-Projects-/blob/main/Ice_cream_sales_based_on_Temp.ipynb">Ice Cream Sales with respect to Temperature</a>
